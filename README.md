@@ -47,7 +47,7 @@ The Settings view has a toggle for dark mode, as well as a login or logout butto
 The More view displays several mockup buttons, which don’t have any functionality in addition of adding design.
 
 <p>
-  <img src="images/profile-tagit.png" height="500">
+  <img src="https://github.com/AOskari/Tag-It/blob/master/images/home-tagit.png" height="500">
   <img src="images/profile-modify-tagit.png" height="500">
   <img src="images/settings-tagit.png" height="500">
   <img src="images/more-tagit.png" height="500">
